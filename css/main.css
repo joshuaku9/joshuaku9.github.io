@@ -19,14 +19,15 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
+h2 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #b3b3b3
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #b3b3b3;
 }
 footer {
     border-top: 1px solid #d5d5d5;
